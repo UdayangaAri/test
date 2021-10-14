@@ -1,0 +1,26 @@
+{
+  "VP": {
+    "name": "Victoria Park",
+    "capital": "Montgomery",
+    "lat": "6.969269291338258",
+    "long": "80.76732473544533"
+  },
+  "LG": {
+    "name": "Lake Gregory",
+    "capital": "Juneau",
+    "lat": "6.956687528024942",
+    "long": "80.77775377168894"
+  },
+  "HG": {
+    "name": "Hakgala",
+    "capital": "Phoenix",
+    "lat": "6.926883114783792",
+    "long": "80.82124945026317"
+  },
+  "ST": {
+    "name": "Single Tree Hill",
+    "capital": "Little Rock",
+    "lat": "6.9587222836456935",
+    "long": "80.76411012539921"
+  }
+}
